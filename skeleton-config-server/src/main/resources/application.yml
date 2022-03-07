@@ -14,6 +14,6 @@ spring:
           uri: https://github.com/dccouto/couto-config-server
           default-label: main
           search-paths:
-          - 'greeting-service*'
+          - 'skeleton-config*'
           #username: dccouto (apenas se fosse um repositorio privado)
           #password: senha (apenas se fosse um repositorio privado)
